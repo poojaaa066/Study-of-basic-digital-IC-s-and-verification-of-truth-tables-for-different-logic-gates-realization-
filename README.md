@@ -1,6 +1,6 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
-### BY:RAVIVARMAN G S
-### RegisterNumber:  23006420
+### BY:Pooja .k.G.M
+### RegisterNumber: 212223050036
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
